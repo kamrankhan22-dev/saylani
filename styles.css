@@ -1,0 +1,67 @@
+body {
+    margin: 50px 245px 50px 245px;
+    background-color: grey;
+}
+
+.left {
+    width: 40%;
+    background-color: #0bb5f4;
+    padding: 0px;
+    color: white;
+height:1156px ;
+}
+
+img {
+    display: block;
+}
+
+.right, .left {
+    display: inline-block;
+}
+
+.right {
+    padding: 25px 35px 25px 25px;
+    background-color: white;
+    color: #0bb5f4;
+    height: 1106px;
+}
+.left{
+    position: relative;
+    bottom: 19px;
+
+}
+.right {
+    position: absolute;
+    top: 31px;
+}
+hr{
+    color:#0bb5f4 ;
+}
+.skill{
+    border-top: 1px solid #0bb5f4;
+    position: relative;
+    top: 0%;
+}
+.exp{
+    border-top: 1px solid #0bb5f4;
+    position: relative;
+    top: 0%;
+
+}
+.edu{
+    position: relative;
+    bottom: 15px;
+}
+.vid{
+    position: relative;
+}
+img:hover{
+    display: none;
+
+}
+
+
+
+
+
+
